@@ -1,0 +1,6 @@
+C:\Users\AJ\SkyDrive\Documents\Visual Studio 2012\Projects\plum blossom divination\plum blossom divination\bin\Debug\plum blossom divination.exe.config
+C:\Users\AJ\SkyDrive\Documents\Visual Studio 2012\Projects\plum blossom divination\plum blossom divination\bin\Debug\plum blossom divination.exe
+C:\Users\AJ\SkyDrive\Documents\Visual Studio 2012\Projects\plum blossom divination\plum blossom divination\bin\Debug\plum blossom divination.pdb
+C:\Users\AJ\SkyDrive\Documents\Visual Studio 2012\Projects\plum blossom divination\plum blossom divination\obj\Debug\plum blossom divination.csprojResolveAssemblyReference.cache
+C:\Users\AJ\SkyDrive\Documents\Visual Studio 2012\Projects\plum blossom divination\plum blossom divination\obj\Debug\plum blossom divination.exe
+C:\Users\AJ\SkyDrive\Documents\Visual Studio 2012\Projects\plum blossom divination\plum blossom divination\obj\Debug\plum blossom divination.pdb
